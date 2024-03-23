@@ -1,0 +1,14 @@
+D:\TI\Estudos\Udemy\C#\Seção 10 - Herança e polimorfismo\AbstractMethodE\AbstractMethodE\bin\Debug\net8.0\AbstractMethodE.exe
+D:\TI\Estudos\Udemy\C#\Seção 10 - Herança e polimorfismo\AbstractMethodE\AbstractMethodE\bin\Debug\net8.0\AbstractMethodE.deps.json
+D:\TI\Estudos\Udemy\C#\Seção 10 - Herança e polimorfismo\AbstractMethodE\AbstractMethodE\bin\Debug\net8.0\AbstractMethodE.runtimeconfig.json
+D:\TI\Estudos\Udemy\C#\Seção 10 - Herança e polimorfismo\AbstractMethodE\AbstractMethodE\bin\Debug\net8.0\AbstractMethodE.dll
+D:\TI\Estudos\Udemy\C#\Seção 10 - Herança e polimorfismo\AbstractMethodE\AbstractMethodE\bin\Debug\net8.0\AbstractMethodE.pdb
+D:\TI\Estudos\Udemy\C#\Seção 10 - Herança e polimorfismo\AbstractMethodE\AbstractMethodE\obj\Debug\net8.0\AbstractMethodE.GeneratedMSBuildEditorConfig.editorconfig
+D:\TI\Estudos\Udemy\C#\Seção 10 - Herança e polimorfismo\AbstractMethodE\AbstractMethodE\obj\Debug\net8.0\AbstractMethodE.AssemblyInfoInputs.cache
+D:\TI\Estudos\Udemy\C#\Seção 10 - Herança e polimorfismo\AbstractMethodE\AbstractMethodE\obj\Debug\net8.0\AbstractMethodE.AssemblyInfo.cs
+D:\TI\Estudos\Udemy\C#\Seção 10 - Herança e polimorfismo\AbstractMethodE\AbstractMethodE\obj\Debug\net8.0\AbstractMethodE.csproj.CoreCompileInputs.cache
+D:\TI\Estudos\Udemy\C#\Seção 10 - Herança e polimorfismo\AbstractMethodE\AbstractMethodE\obj\Debug\net8.0\AbstractMethodE.dll
+D:\TI\Estudos\Udemy\C#\Seção 10 - Herança e polimorfismo\AbstractMethodE\AbstractMethodE\obj\Debug\net8.0\refint\AbstractMethodE.dll
+D:\TI\Estudos\Udemy\C#\Seção 10 - Herança e polimorfismo\AbstractMethodE\AbstractMethodE\obj\Debug\net8.0\AbstractMethodE.pdb
+D:\TI\Estudos\Udemy\C#\Seção 10 - Herança e polimorfismo\AbstractMethodE\AbstractMethodE\obj\Debug\net8.0\AbstractMethodE.genruntimeconfig.cache
+D:\TI\Estudos\Udemy\C#\Seção 10 - Herança e polimorfismo\AbstractMethodE\AbstractMethodE\obj\Debug\net8.0\ref\AbstractMethodE.dll
